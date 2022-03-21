@@ -1,0 +1,26 @@
+{
+  "id": "db0ab2a7-befa-4f11-b5e3-d13fb7d62043",
+  "uid": "vero-ad-architecto",
+  "type": "my-custom-publication",
+  "data": {
+    "Title": [
+      {
+        "type": "heading2",
+        "text": "Productize leading-edge communities",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "heading1",
+        "text": "Matrix extensible platforms",
+        "spans": []
+      },
+      {
+        "type": "paragraph",
+        "text": "Qui culpa mollit consectetur in Lorem voluptate ad voluptate veniam ea Lorem adipisicing dolor proident deserunt. Amet duis ea velit mollit elit pariatur veniam irure aute deserunt. Excepteur elit mollit enim commodo mollit minim sint.",
+        "spans": []
+      }
+    ]
+  }
+}
